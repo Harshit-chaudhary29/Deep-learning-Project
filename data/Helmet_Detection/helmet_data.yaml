@@ -1,0 +1,5 @@
+path: C:/Users/Shreya/OneDrive/Desktop/BCA AI FOLDER/BCA 5sem/Deep learning Project/helmet_number_plate_detection/data/Helmet_Detection
+train: yolo_split/images/train
+val: yolo_split/images/val
+names:
+  0: helmet
