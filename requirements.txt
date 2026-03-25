@@ -1,0 +1,18 @@
+# Core dependencies
+opencv-python
+numpy
+matplotlib
+
+# Deep Learning models
+torch
+torchvision
+ultralytics   # for YOLOv8
+
+# OCR for number plate text
+pytesseract
+
+# Web framework (optional dashboard)
+flask
+
+# Utility libraries
+pandas
