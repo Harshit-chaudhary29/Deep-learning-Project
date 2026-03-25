@@ -1,5 +1,0 @@
-train: small_dataset/images
-val: small_dataset/images
-
-nc: 1
-names: ['number_plate']
